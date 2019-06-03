@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e9fc2c7-8def-4995-920f-63eb4be0f456" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TanikuAndroid.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/allclasses-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/allclasses-noframe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/CountCallback.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/DeleteCallback.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/FindCallback.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/FunctionCallback.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/GetCallback.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/GetDataCallback.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/LocationCallback.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/LogInCallback.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/Parse.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/ParseACL.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/ParseAnalytics.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/ParseAnonymousUtils.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/ParseClassName.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/ParseCloud.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/ParseException.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/ParseFacebookUtils.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/ParseFile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/ParseGeoPoint.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/ParseInstallation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/ParseObject.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/ParsePush.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/ParseQuery.CachePolicy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/ParseQuery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/ParseRelation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/ParseRole.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/ParseTwitterUtils.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/ParseUser.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/ProgressCallback.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/PushCallback.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/PushService.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/RefreshCallback.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/RequestPasswordResetCallback.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/SaveCallback.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/SendCallback.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/SignUpCallback.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/StandardPushCallback.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/class-use/CountCallback.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/class-use/DeleteCallback.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/class-use/FindCallback.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/class-use/FunctionCallback.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/class-use/GetCallback.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/class-use/GetDataCallback.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/class-use/LocationCallback.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/class-use/LogInCallback.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/class-use/Parse.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/class-use/ParseACL.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/class-use/ParseAnalytics.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/class-use/ParseAnonymousUtils.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/class-use/ParseClassName.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/class-use/ParseCloud.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/class-use/ParseException.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/class-use/ParseFacebookUtils.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/class-use/ParseFile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/class-use/ParseGeoPoint.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/class-use/ParseInstallation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/class-use/ParseObject.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/class-use/ParsePush.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/class-use/ParseQuery.CachePolicy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/class-use/ParseQuery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/class-use/ParseRelation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/class-use/ParseRole.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/class-use/ParseTwitterUtils.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/class-use/ParseUser.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/class-use/ProgressCallback.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/class-use/PushCallback.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/class-use/PushService.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/class-use/RefreshCallback.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/class-use/RequestPasswordResetCallback.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/class-use/SaveCallback.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/class-use/SendCallback.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/class-use/SignUpCallback.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/class-use/StandardPushCallback.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/com/parse/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/constant-values.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/deprecated-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/index-all.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/package-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/resources/inherit.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/serialized-form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0-javadoc/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Parse-1.3.0.jar.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/android-support-v4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/signpost-commonshttp4-1.2.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/signpost-core-1.2.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/signpost-jetty6-1.2.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/ridwanmaulana/taniku/ApplicationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/db_order" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/ActivityAbout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/ActivityArtikel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/ActivityCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/ActivityCategoryList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/ActivityCheckout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/ActivityConfirmMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/ActivityContactUs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/ActivityHome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/ActivityInformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/ActivityMenuDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/ActivityMenuList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/ActivityProfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/ActivitySplash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/AdapaterGridView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/AdapterCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/AdapterCategoryList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/AdapterInformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/AdapterMainMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/AdapterMenuList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/AdapterProfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/Constant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/DBHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/FileCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/GridViewItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/ImageLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/MemoryCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/NavDrawerItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/SquareImageView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/SwipeTabFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/anim/close_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/anim/close_next.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/anim/open_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/anim/open_next.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/awal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/awal1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/button_delete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/button_delete_pressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/cart_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/checkout.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/header1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_ab_overflow_compat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_ab_up_compat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_about.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_action_refresh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_buy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_buy_pressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_checkout.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_contact.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_drawer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_exit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_info.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_product.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_share.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/icon_checkout.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/icon_checkout_pressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/image_header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/loading.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/nav_back2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/no_color.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/obat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/pilobat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/search_form.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/tandatanya.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/transparant.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/cart_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/obat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/pilobat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/tandatanya.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/actionbar_icon_placeholder_compat.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/actionbar_shadow.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/border_shadow.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/border_shadow2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/btn_buy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/btn_checkout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/btn_delete.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/button_top_style_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/list_item_bg_normal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/list_item_bg_pressed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/list_selector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/loading_url.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/navigation_drawer_shadow.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout-sw480dp/category_list_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout-sw480dp/fragment_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout-sw480dp/fragment_list_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout-sw480dp/menu_list_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout-sw600dp/category_list_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout-sw600dp/fragment_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout-sw600dp/fragment_list_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout-sw600dp/menu_list_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout-sw800dp/fragment_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/about.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/artikel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/category_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/category_list_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/checkout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/confirm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/contact_us.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_list_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/grid_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/main_menu_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/menu_detail.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/menu_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/menu_list_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/nav_drawer_list_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/nav_drawer_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/order_list_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/splash.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/swipetab.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/swipetab_fragment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/your_order.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/menu/menu_category.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/menu/menu_detail.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/menu/menu_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values-w820dp/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/array.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/ActivityCategoryList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1544">
+              <caret line="126" column="16" lean-forward="true" selection-start-line="126" selection-start-column="16" selection-end-line="126" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/ActivityConfirmMessage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/ActivityContactUs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/ActivityInformation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-932">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/ActivitySplash.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/ActivityAbout.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-65">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/ActivityCart.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-5621">
+              <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/AdapaterGridView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-371">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/AdapterCart.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/ActivityArtikel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>TekDev</find>
+      <find>tekdev</find>
+      <find>ActivityAB</find>
+      <find>ActivityAbout</find>
+      <find>About</find>
+      <find>about</find>
+      <find>Pemesanan</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/delivery/apotek/Constant.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/delivery/apotek/ActivityAbout.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/about.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/artikel.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/ActivityHome.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/ActivityArtikel.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/ActivityAbout.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/Constant.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages AndroidView="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TanikuAndroid" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="TanikuAndroid" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="manifests" type="f94875db:AndroidManifestsGroupNode" />
+            </path>
+            <path>
+              <item name="TanikuAndroid" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="TanikuAndroid" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="taniku" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TanikuAndroid" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+            </path>
+            <path>
+              <item name="TanikuAndroid" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="menu" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="device.picker.selection" value="J7AXGF04V7629M4" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ridwanmaulana.taniku" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\TanikuAndroid\app\src\main\res\layout" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e9fc2c7-8def-4995-920f-63eb4be0f456" name="Default Changelist" comment="" />
+      <created>1558949197944</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558949197944</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.32980332" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Resources Explorer" order="7" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="bottom" id="Run" order="0" />
+      <window_info anchor="bottom" id="Logcat" order="1" />
+      <window_info anchor="bottom" id="TODO" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" visible="true" weight="0.24270353" />
+      <window_info anchor="bottom" id="Debug" order="8" />
+      <window_info anchor="bottom" id="Android Profiler" order="9" show_stripe_button="false" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Preview" order="4" weight="0.32980332" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_contact.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_drawer.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_exit.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_home.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_info.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_product.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_profile.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_search.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_share.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/nav_back2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/navigation_drawer_shadow.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/no_color.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/obat.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/obat.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/pilobat1.png" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/pilobat.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/artikel.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="310" selection-start-line="1" selection-start-column="310" selection-end-line="1" selection-end-column="310" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/confirm.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/menu_detail.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/menu_list.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1530">
+          <caret line="90" column="28" selection-start-line="90" selection-start-column="28" selection-end-line="90" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/contact_us.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/com/ridwanmaulana/taniku/ApplicationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/about.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="273" selection-start-line="1" selection-start-column="273" selection-end-line="1" selection-end-column="310" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/Constant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-125">
+          <caret line="14" column="65" selection-start-line="14" selection-start-column="65" selection-end-line="14" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/menu_list.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/menu_category.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/menu_detail.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/category_list.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/main_menu_item.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/anim/close_main.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/AdapterMainMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/ActivityHome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="20" column="49" selection-end-line="86" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/ActivityMenuList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="55" column="24" lean-forward="true" selection-start-line="55" selection-start-column="24" selection-end-line="55" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/ActivityCheckout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="61" column="13" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/ActivityMenuDetail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4465">
+          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/ActivityProfile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-932">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/ActivitySplash.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/AdapaterGridView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-371">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/AdapterCart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/ActivityInformation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-932">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/ActivityAbout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-65">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/ActivityArtikel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/ActivityCart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5621">
+          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/ActivityCategoryList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1544">
+          <caret line="126" column="16" lean-forward="true" selection-start-line="126" selection-start-column="16" selection-end-line="126" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/ActivityConfirmMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ridwanmaulana/taniku/ActivityContactUs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
